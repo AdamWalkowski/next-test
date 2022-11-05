@@ -16,6 +16,7 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@types/cookie": "^0.5.1",
     "@types/cors": "^2.8.12",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
